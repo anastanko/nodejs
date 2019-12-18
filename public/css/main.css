@@ -1,0 +1,16 @@
+
+div.white, div.black{
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  outline: 1px black solid;
+  margin: 0px;
+  padding: 0px;
+}
+div.white {
+  background-color: white;
+
+}
+div.black {
+  background-color: black;
+}
